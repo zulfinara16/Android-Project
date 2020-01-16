@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Spendingz</string>
+    <string name="tag_line">Your Digital Wallet</string>
+    <string name="developers">Afnaan K , Zulfin Ara</string>
+    <string name="data">2019-2020</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Learn to manage your finances!</string>
+    <string name="slide_1_desc">Get regular overviews and tips for improvement</string>
+
+    <string name="slide_2_title">Know where the money goes!</string>
+    <string name="slide_2_desc">With categories and easy-to-read charts</string>
+
+    <string name="slide_3_title">Track your spending!</string>
+    <string name="slide_3_desc">Keep track of your expenses manually</string>
+
+    <string name="slide_4_title">All your finances in one place!</string>
+    <string name="slide_4_desc">See bigger picture by having all your financial sources in one point</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="button_next">NEXT</string>
+    <string name="text_setup">Set up your cash Balance</string>
+    <string name="text_howmuch">How much cash do you have in your physical wallet?</string>
+    <string name="text_balanceinput">0 INR</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_about">About</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="amount">Amount</string>
+    <string name="Date">Date</string>
+    <string name="date">11/11/2019</string>
+    <string name="Category">Category</string>
+    <string name="Description">Description</string>
+    <string-array name="date_array">
+        <item>All</item>
+        <item>This Week</item>
+        <item>This Month</item>
+
+    </string-array>
+</resources>
